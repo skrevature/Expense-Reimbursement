@@ -1,9 +1,9 @@
 # Expense Reimbursement
 
-# Project Description
+## Project Description
 This is a basic Java project that manages employees and address of the employees.
 
-# Technologies Used
+## Technologies Used
 Spring Tool Suite.
 Java.
 Tomcat.
